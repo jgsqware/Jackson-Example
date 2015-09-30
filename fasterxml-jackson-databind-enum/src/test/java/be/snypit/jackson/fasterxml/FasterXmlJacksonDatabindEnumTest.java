@@ -1,10 +1,13 @@
+package be.snypit.jackson.fasterxml;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;
 
 import java.io.IOException;
 
-public class JacksonDatabindEnumTest {
+
+public class FasterXmlJacksonDatabindEnumTest {
 
     @Test
     public void testSerializeEnum() throws JsonProcessingException {

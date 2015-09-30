@@ -1,3 +1,5 @@
+package be.snypit.jackson.fasterxml;
+
 import java.util.ArrayList;
 import java.util.List;
 

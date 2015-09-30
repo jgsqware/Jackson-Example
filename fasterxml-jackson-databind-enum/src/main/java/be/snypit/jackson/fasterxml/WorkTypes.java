@@ -1,3 +1,5 @@
+package be.snypit.jackson.fasterxml;
+
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonValue;
 
